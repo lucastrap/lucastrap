@@ -19,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastrap&show_icons=true&locale=en&layout=compact" alt="lucastrap" /></p>
 
+[![lucastrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastrap)](https://github.com/anuraghazra/github-readme-stats)
