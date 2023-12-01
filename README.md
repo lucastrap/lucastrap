@@ -1,7 +1,16 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Space](space.png)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h1 align="center">Hi 👋, I'm Luca Straputicari</h1>
-<h3 align="center">A passionate full stack developper from France</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=800&height=100&lines=A+passionate+full+stack+developper+from+france,;Love+to+learn+new+things,;+Working+on+my+website+right+now">
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastrap&label=Profile%20views&color=0e75b6&style=flat" alt="lucastrap" /> 
 <br>
@@ -59,11 +68,19 @@
 
 ## Overall 📊
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastrap&show_icons=true&locale=en&layout=compact" alt="lucastrap" /></p>
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrap&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucastrap&theme=highcontrast&hide_border=true)<br/>
 
 <br><br>
 
 ## Trophies 🏆
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/api?username=lucastrap&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
@@ -73,4 +90,7 @@
 
 ## Stats 📈
 
-[![lucastrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastrap)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=lucastrap&theme=highcontrast&hide_border=true)<br/>
+
