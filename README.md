@@ -19,11 +19,11 @@
 <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Canard_codeur" style="width: 200px; float:right;"/>
 
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning Laravel 
 
 - 📫 Reach me here :**lucastrap@live.fr**
 
-- ⚡ Fun fact **I made a symfony project before learning it in school**
+- ⚡ Fun fact **I made a project with friends of mine on Minecraft**
 
   </p> <br> 
 
