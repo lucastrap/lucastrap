@@ -1,96 +1,119 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-![Space](space.png)
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luca%20Straputicari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20France%20🇫🇷&descAlignY=58&descSize=18" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Funny gif -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
 
+<br/>
 
-<h1 align="center">Hi 👋, I'm Luca Straputicari</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=800&height=100&lines=A+passionate+full+stack+developper+from+france,;Love+to+learn+new+things,;+Working+on+my+website+right+now">
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+the+web%2C+one+component+at+a+time+%F0%9F%9A%80;Angular+%7C+TypeScript+%7C+PHP+%7C+Symfony;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social badges with hover effect -->
+<p>
+  <a href="https://www.linkedin.com/in/luca-straputicari-mf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mf.lucastrap095/?hl=fr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lucastrap@live.fr">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/lucastrap">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lucastrap&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastrap&label=Profile%20views&color=0e75b6&style=flat" alt="lucastrap" /> 
-<br>
-
-
-<img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Canard_codeur" style="width: 200px; float:right;"/>
-
-
-- 🌱 I’m currently learning Laravel 
-
-- 📫 Reach me here :**lucastrap@live.fr**
-
-- ⚡ Fun fact **I made a project with friends of mine on Minecraft**
-
-  </p> <br> 
-
-## Connect with me:
-<table>
-  <tr>
-    <td>↪️</td>
-    <td><a href="https://www.instagram.com/mf.lucastrap095/?hl=fr" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a></td>
-  </tr>
-  <tr>
-    <td>↪️</td>
-    <td><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /><p><b>lucastrap</b></p></td>
-  </tr>
-  <tr>
-    <td>↪️</td>
-    <td><a href="https://www.linkedin.com/in/luca-straputicari-mf/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></td>
-  </tr>
-  <tr>
-    <td>↪️</td>
-    <td><a href="mailto:lucastrap@live.fr"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></td>
-  </tr>
-
-</table>
-<br>
-
-## Languages 🧑‍💻
-
-### Web 🖥️
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  
-### Software ⌨️
-
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-### Others ℹ️
-
-</a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-
-<br><br>
-
-## Overall 📊
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrap&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucastrap&theme=highcontrast&hide_border=true)<br/>
-
-<br><br>
-
-## Trophies 🏆
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=lucastrap&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
 </div>
 
-<br><br>
+---
 
-## Stats 📈
+## 👨‍💻 About Me
 
-<br>
+```typescript
+const luca: Developer = {
+  name: "Luca Straputicari",
+  location: "France 🇫🇷",
+  role: "Full Stack Developer",
+  currentlyLearning: ["Laravel", "DevOps", "Docker"],
+  funFact: "Built a collaborative Minecraft project with friends 🎮",
+  contact: "lucastrap@live.fr",
+  openTo: ["collaborations", "freelance", "open-source"],
+};
+```
 
-![](https://github-readme-stats.vercel.app/api?username=lucastrap&theme=highcontrast&hide_border=true)<br/>
+<br/>
 
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,bootstrap&theme=dark&perline=7" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs&theme=dark&perline=7" />
+</p>
+
+### 💾 Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=7" />
+</p>
+
+### 🖥️ Software & Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark&perline=7" />
+</p>
+
+### 🧰 Tools & Devops
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,figma,arduino,cypress&theme=dark&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucastrap&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=lucastrap&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrap&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucastrap&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
